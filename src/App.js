@@ -21,8 +21,8 @@ class BooksApp extends React.Component {
 
 // getting the books data from the API and storing it in the this.state.books array
 
-componentDidMount(){
-  BooksAPI.getAll()
+async componentDidMount(){
+ await BooksAPI.getAll()
     .then(resp=>{
       this.setState({ books:resp})})
     .catch(error=>console.log(error));
