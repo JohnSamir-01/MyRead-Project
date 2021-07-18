@@ -1,8 +1,8 @@
-# MyReads Project
+# *MyReads Project*
 This project is to test out some basic understandings of react.
 
 
-## 'How to use'
+## How to use
 
 To get started developing right away:
 
@@ -10,7 +10,7 @@ To get started developing right away:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
-## 'Project Content'
+## Project Content
 
 * fully responsive design 
 * using states in react
@@ -18,12 +18,12 @@ To get started developing right away:
 * updating components 
 
 
-## 'Resources Used'
+## Resources Used
 
 Udacity's starter project file 
 [Starter project files](https://github.com/udacity/reactnd-project-myreads-starter)
 
-### 'MIT Licence '
+### MIT Licence 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
