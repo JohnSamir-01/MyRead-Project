@@ -1,4 +1,4 @@
-# *MyReads Project*
+# *MyReads-Project*
 This project is to test out some basic understandings of react.
 
 
@@ -39,4 +39,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-# MyReads-Project
+
