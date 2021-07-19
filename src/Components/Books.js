@@ -24,7 +24,7 @@ function Books(props) {
                  </div>
             </div>
                  <div className="book-title">{props.book.title}</div>
-                 <div className="book-authors">{(props.book.authors && props.book.authors[0]) || "no authors "}</div>
+                 <div className="book-authors">{(props.book.authors && props.book.authors.join(" / ")) || "no authors "}</div>
             </div>
         </li>
     );
